@@ -17,4 +17,6 @@ public class UsersHabits {
     private int frequency;
     private int period;
     private int counter;
+
+    public UsersHabits() {}
 }

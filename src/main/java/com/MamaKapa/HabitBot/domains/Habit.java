@@ -12,4 +12,5 @@ public class Habit {
     private Long id;
     private String name;
     private String description;
+    public Habit(){}
 }
